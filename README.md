@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hii I Am Pramod Yadav:
 Hi there! 👋 I'm Pramod Yadav<br>🚀 Java Developer | Spring Boot Enthusiast |React Js<br><br>I am a passionate Java Developer with expertise in Spring Boot, MySQL, and backend development. I love building scalable and secure applications, integrating Spring Security (JWT), REST APIs, and database management.<br><br>🔹 Projects:<br><br>Social Media App Backend (Spring Boot, Security Configurations)<br>Hotel Management Application (Spring Boot, MySQL, React)<br>Chatting App (Final Year Project)<br>🔹 Certifications:<br><br>🏆 AWS Academy Graduate - Cloud Architecting<br>🔹 Skills & Interests:<br><br>Java, Spring Boot, SQL, Hibernate<br>REST APIs, Spring Security, JWT<br>Data Structures & Algorithms<br>Android Development (Upcoming Goal 🚀)<br>💡 Always learning & sharing! Planning to start a YouTube channel soon to teach coding & DSA.
 
 
